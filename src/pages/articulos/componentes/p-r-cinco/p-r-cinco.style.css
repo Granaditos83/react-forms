@@ -1,0 +1,14 @@
+.p-r-cinco-container{
+    width: 0 auto;
+    border: 5px solid rgb(13, 14, 14);
+    text-align: left;
+    font-weight: bold;
+    border-radius: 8px;
+    font-family: 'Original Surfer', cursive;
+    background: -webkit-linear-gradient(to right, #e009e0c7, #ff00ffc4, #db40e086);  
+    background: linear-gradient(to right, #20d3e06b, #db0deecc, #65f00881); 
+    
+   
+    
+
+}
