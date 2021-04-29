@@ -149,27 +149,27 @@ const PtTres = () => {
 
             }} />
                   <PrCinco producto ={{
-                marca:"Rigo GO",
-                color:"Verde y blanco",
+                marca:"Bossi",
+                color:" blanco",
                 procedencia:"Colombia",
-                precio: "120.000",
-                stock: 10,
+                precio: "165.00",
+                stock: 0,
 
             }} />
                   <PrCinco producto ={{
                 marca:"Rigo GO",
-                color:"Verde y blanco",
+                color:"Verde ",
                 procedencia:"Colombia",
-                precio: "120.000",
-                stock: 10,
+                precio: "132.000",
+                stock: 1,
 
             }} />
                   <PrCinco producto ={{
                 marca:"Rigo GO",
-                color:"Verde y blanco",
+                color:"Rojo",
                 procedencia:"Colombia",
                 precio: "120.000",
-                stock: 10,
+                stock: 6,
 
             }} />
 
