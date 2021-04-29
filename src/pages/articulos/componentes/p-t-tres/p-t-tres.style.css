@@ -2,10 +2,33 @@
     width: 80%;
     margin: 0 auto;
     min-height:530px;
-    border: 5px solid rgb(236, 34, 34);
+    border: 7px solid rgb(243, 2, 2);
     margin-top: 10px;
     border-radius: 10px;
-    background: linear-gradient(to right, #fae100e7, #002df7cc, #f00808fa); 
+    background: linear-gradient(to right,  #f00808fa, #002df7cc, #f00808fa); 
+    font-weight: bolder;
+    
+    
+    
+    }
+    p{
+        color: rgb(28, 241, 9);
+        font-weight:bold
+    }
+    form{
+        width: 80%;
+    margin: 0 auto;
+    
+    border: 7px solid rgb(243, 2, 2);
+    margin-top: 10px;
+    border-radius: 10px;
+    background: linear-gradient(to right,  #cdf008fa, #002df7cc, #f0c508fa); 
+    font-weight: bolder;
+        
+    }
+    
+
+   
    
     
   
@@ -16,4 +39,3 @@
    
 
 
-}

@@ -5,7 +5,7 @@
     border: 5px solid rgb(14, 14, 223);
     margin-top: 10px;
     border-radius: 10px;
-    background: linear-gradient(to right, #ee0808e3, #ffee00cc, #082bf0e3); 
+    background: linear-gradient(to right, #ee0808, #ffee00cc, #082bf0e3); 
     
    
     
@@ -13,4 +13,9 @@
    
 
 
+}
+h1{
+    color: rgb(3, 3, 3);
+    text-transform:capitalize;
+    background: linear-gradient(to right, #0832ee88, #00f7ffcc, #f00827e3); 
 }

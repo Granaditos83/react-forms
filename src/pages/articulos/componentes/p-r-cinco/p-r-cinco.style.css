@@ -4,6 +4,9 @@
     text-align: left;
     font-weight: bold;
     border-radius: 8px;
+    margin: 0 auto;
+    min-height:40px;
+    padding: 10px;
     font-family: 'Original Surfer', cursive;
     background: -webkit-linear-gradient(to right, #e009e0c7, #ff00ffc4, #db40e086);  
     background: linear-gradient(to right, #20d3e06b, #db0deecc, #65f00881); 
@@ -12,3 +15,13 @@
     
 
 }
+.producto-sin-existencia{
+    color: red;
+}
+h2{
+    color: rgb(75, 243, 9);
+}
+span{
+    color: rgb(38, 190, 38);
+}
+
